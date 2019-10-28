@@ -1,4 +1,4 @@
-# Crime map of Monreal Island
+# Crime Map of Monreal Island
 * Visualized crime reported in Montreal and analyzed the crime trend.
 
 ### Data fetched form [OPEN DATA PORTAL(City of Montreal)](http://donnees.ville.montreal.qc.ca/dataset)
